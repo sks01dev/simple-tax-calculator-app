@@ -11,8 +11,6 @@ A simple and intuitive tax calculator desktop application built using **CustomTk
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
